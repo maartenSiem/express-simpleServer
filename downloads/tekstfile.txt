@@ -1,0 +1,3 @@
+Hallo,
+Als het goed is wordt deze file gedownload wanneer men op de page naar 'download gaat'.
+Dit komt omdat dit zo in Express is ingesteld.
